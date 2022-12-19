@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Check Connectivity</string>
+    <string name="have_internet">Have Internet Connection</string>
+    <string name="no_internet">No Internet Connection</string>
+</resources>
